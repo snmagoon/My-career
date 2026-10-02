@@ -4,7 +4,7 @@
 |---|---|
 | **Company** | 10Pearls Pakistan |
 | **Period** | January 2022 – October 2022 |
-| **Role** | Developer |
+| **Role** | Senior Developer |
 | **Domain** | Facility and access management |
 | **Methodology** | Scrum, later Agile |
 

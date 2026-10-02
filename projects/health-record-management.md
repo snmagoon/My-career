@@ -4,7 +4,7 @@
 |---|---|
 | **Company** | 10Pearls Pakistan |
 | **Period** | November 2022 – April 2023 |
-| **Role** | Developer |
+| **Role** | Senior Developer |
 | **Domain** | Healthcare |
 | **Methodology** | Scrum, later Agile |
 

@@ -4,7 +4,7 @@
 |---|---|
 | **Company** | 10Pearls Pakistan |
 | **Period** | August 2024 – 2025 |
-| **Role** | Senior Developer |
+| **Role** | Staff Lead Developer |
 | **Domain** | Revenue management services |
 | **Methodology** | Scrum, later Kanban |
 

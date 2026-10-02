@@ -5,7 +5,7 @@
 | **Company** | 10Pearls Pakistan |
 | **Client** | Confidential enterprise client (EVA AI platform) |
 | **Period** | 2026 |
-| **Role** | Staff Software Consultant (architect and hands-on developer) |
+| **Role** | Staff Lead Developer |
 | **Domain** | AI safety, governance, Power Platform integration |
 
 ## Overview

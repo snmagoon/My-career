@@ -3,12 +3,12 @@
 ## 10Pearls Pakistan
 | Project | Domain | Period | Role | File |
 |---|---|---|---|---|
-| Personas: Enterprise GenAI Assistant | Generative AI | 2024 – present | Staff Software Consultant (developer, initial build and revamp) | [personas-genai-assistant.md](personas-genai-assistant.md) |
-| Interactive Deep Research | Agentic AI, research automation | 2026 | Staff Software Consultant (architect and developer) | [interactive-deep-research.md](interactive-deep-research.md) |
-| EVA Smart Guardrails | AI safety and governance | 2026 | Staff Software Consultant (architect and developer) | [eva-smart-guardrails.md](eva-smart-guardrails.md) |
-| Revenue Management Services Platform | Revenue management | Aug 2024 – 2025 | Senior Developer | [revenue-management-platform.md](revenue-management-platform.md) |
-| Health Record Management Application | Healthcare | Nov 2022 – Apr 2023 | Developer | [health-record-management.md](health-record-management.md) |
-| Facility Access Management Multi-Tenant System | Facility and access management | Jan 2022 – Oct 2022 | Developer | [facility-access-management.md](facility-access-management.md) |
+| Personas: Enterprise GenAI Assistant | Generative AI | 2024 – present | Staff Lead Developer | [personas-genai-assistant.md](personas-genai-assistant.md) |
+| Interactive Deep Research | Agentic AI, research automation | 2026 | Staff Lead Developer | [interactive-deep-research.md](interactive-deep-research.md) |
+| EVA Smart Guardrails | AI safety and governance | 2026 | Staff Lead Developer | [eva-smart-guardrails.md](eva-smart-guardrails.md) |
+| Revenue Management Services Platform | Revenue management | Aug 2024 – 2025 | Staff Lead Developer | [revenue-management-platform.md](revenue-management-platform.md) |
+| Health Record Management Application | Healthcare | Nov 2022 – Apr 2023 | Senior Developer | [health-record-management.md](health-record-management.md) |
+| Facility Access Management Multi-Tenant System | Facility and access management | Jan 2022 – Oct 2022 | Senior Developer | [facility-access-management.md](facility-access-management.md) |
 
 ## M3 Technologies Pakistan
 | Project | Domain | Period | Role | File |

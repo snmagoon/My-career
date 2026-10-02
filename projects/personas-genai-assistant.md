@@ -5,7 +5,7 @@
 | **Company** | 10Pearls Pakistan |
 | **Client** | Confidential enterprise client |
 | **Period** | 2024 – present |
-| **Role** | Staff Software Consultant (developer on the initial build and the revamp, as part of the team) |
+| **Role** | Staff Lead Developer |
 | **Domain** | Enterprise generative AI assistant |
 | **Status** | In production; revamp delivered |
 
@@ -26,7 +26,7 @@ An internal AI assistant for a global professional services firm's staff that co
 **Key runtime flows:** streaming persona chat · chat with files (upload, chunk, summarise, retrieve) · knowledge-base-grounded answers with sources · notification lifecycle and scheduled retention cleanup.
 
 ## My contributions
-I was part of the team that built the original platform, and I contributed to the revamp from architecture through implementation.
+As Staff Lead Developer, I was part of the team that built the original platform and contributed to the revamp from architecture through implementation.
 
 - Hands-on development on both the initial build and the revamped platform, working with the wider team.
 - Produced the **Architecture Revamp Knowledge Pack**: system context and container diagrams, runtime flows, ten end-to-end use cases, security and identity model, and operations review.
