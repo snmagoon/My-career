@@ -23,3 +23,12 @@ A financial platform for small and medium-sized enterprises, built on the Master
 ## Resume bullets
 - Optimised database queries on an SME credit platform integrated with Mastercard, cutting response times from minutes to seconds.
 - Engineered distributed scheduled services and REST APIs serving the platform's web client.
+
+## Later engagement: Web REST API and backend services
+| | |
+|---|---|
+| **Period** | May 2023 – July 2024 |
+| **Role** | Senior Developer |
+| **Tech** | MVC.NET · ASP.NET · RESTful APIs · SQL Server · IIS · Visual Studio · JIRA · Bitbucket |
+
+Focused on the platform's web REST API and backend services: the same responsibilities as above, with the added seniority of reviewing and tracking peers' work and coordinating with leads across a large team.
