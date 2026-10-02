@@ -2,9 +2,9 @@
 
 ## Headline options
 - **Current LinkedIn headline:** AI & Cloud Architect | Generative AI | Agentic AI | Azure OpenAI | RAG | Semantic Kernel | .NET | Enterprise AI Platforms | PMP®
-- Staff Software Consultant (AI & Cloud) | PMP® | Azure · .NET · Angular · React · LLMs
+- Staff Software Consultant (AI & Cloud) | PMP® | .NET · Azure · LLMs
 - Senior AI & Cloud Software Engineer | RAG · AI Agents · Azure OpenAI | PMP®
-- Full Stack Developer & AI Specialist | Azure, .NET, Angular, React | 8+ years in fintech and enterprise
+- Full Stack Developer & AI Specialist | .NET, React, Azure | 8+ years in fintech and enterprise
 
 ## Summary A — AI & Cloud engineer (for AI/LLM/platform roles)
 Senior AI & Cloud Software Engineer with 8+ years of experience designing and delivering enterprise-scale distributed systems and intelligent platforms using .NET, Azure, and modern LLM technologies. Proven track record of building AI-powered applications, scalable microservices architectures, and cloud-native platforms supporting mission-critical business workflows. Specialized in Retrieval-Augmented Generation (RAG), AI agent orchestration, and large-scale Azure infrastructure, with strong expertise in performance engineering, system design, and DevOps automation.
@@ -19,7 +19,6 @@ PMP®-certified technical leader who pairs hands-on architecture with delivery m
 Staff Software Consultant at 10Pearls building enterprise AI and cloud platforms: RAG, multi-agent systems, and event-driven microservices on .NET and Azure. PMP®-certified. 15+ enterprise apps delivered at 98% client satisfaction.
 
 ## Key strengths
-- Core stack: Azure, .NET, Angular, and React
 - Enterprise GenAI: RAG, agents, guardrails, deep research
 - Intelligent automation: UiPath, Power Automate, Copilot Studio, and custom connectors
 - Azure cloud architecture and Infrastructure-as-Code

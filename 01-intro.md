@@ -1,7 +1,7 @@
 # Intro
 
 ## One-liner
-PMP®-certified AI & Cloud Architect and Staff Software Consultant with 8+ years of experience building enterprise AI platforms, RAG pipelines, and cloud-native microservices. Core stack: Azure, .NET, Angular, and React.
+PMP®-certified AI & Cloud Architect and Staff Software Consultant with 8+ years of experience building enterprise AI platforms, RAG pipelines, and cloud-native microservices on .NET and Azure.
 
 ## Elevator pitch (about 30 seconds)
 I'm Saif Nadeem Magoon, a Staff Software Consultant at 10Pearls in Karachi. Over 8 years, mostly in fintech and enterprise consulting, I've moved from .NET full-stack development into designing AI-powered platforms: RAG pipelines, multi-agent systems with Semantic Kernel, and Azure infrastructure spanning 30+ services. I've delivered 15+ enterprise applications with 98% client satisfaction, and I hold the PMP® certification, so I can run delivery as well as build it.
@@ -15,7 +15,6 @@ I also advise clients on digital transformation, run technical workshops, and me
 
 ## Interview talking points
 - **Leadership scale:** led delivery of 15+ enterprise applications with 100% on-time completion and 98% client satisfaction.
-- **Core stack:** Azure and .NET on the back end, Angular and React on the front end, across 8+ years of enterprise delivery.
 - **AI depth:** RAG on Azure OpenAI + Azure AI Search, multi-agent orchestration with Semantic Kernel, agentic deep-search workflows.
 - **Architecture:** event-driven microservices (MassTransit + Service Bus), CQRS, clean architecture, Redis caching, IaC with Bicep.
 - **Automation:** UiPath and Power Automate RPA workflows, Copilot Studio agents, and custom connectors that bring AI into everyday business processes.
