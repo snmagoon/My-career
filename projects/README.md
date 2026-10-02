@@ -8,7 +8,7 @@
 | EVA Smart Guardrails | AI safety and governance | 2026 | Staff Software Consultant | [eva-smart-guardrails.md](eva-smart-guardrails.md) |
 | Revenue Management Services Platform | Revenue management | Aug 2024 – 2025 | Senior Developer | [revenue-management-platform.md](revenue-management-platform.md) |
 | Health Record Management Application | Healthcare | Nov 2022 – Apr 2023 | Developer | [health-record-management.md](health-record-management.md) |
-| Facility Access Management Multi-Tenant System | Facility and access management | Dec 2021 – Oct 2022 | Developer | [facility-access-management.md](facility-access-management.md) |
+| Facility Access Management Multi-Tenant System | Facility and access management | Jan 2022 – Oct 2022 | Developer | [facility-access-management.md](facility-access-management.md) |
 
 ## M3 Technologies Pakistan
 | Project | Domain | Period | Role | File |
@@ -19,8 +19,8 @@
 ## Indistech
 | Project | Domain | Period | Role | File |
 |---|---|---|---|---|
-| Custom Survey Application | Data collection and analytics | Oct 2018 – Aug 2019 | Developer | [survey-application.md](survey-application.md) |
-| One-Stop Online Shop for School Supplies | E-commerce | Jun 2016 – Sep 2017 | Developer | [school-supplies-ecommerce.md](school-supplies-ecommerce.md) |
+| Custom Survey Application | Data collection and analytics | Oct 2018 – Jul 2019 | Developer | [survey-application.md](survey-application.md) |
+| One-Stop Online Shop for School Supplies | E-commerce | Mar 2018 – Sep 2018 | Developer | [school-supplies-ecommerce.md](school-supplies-ecommerce.md) |
 
 ## Code Aesthetic
 | Project | Domain | Period | Role | File |

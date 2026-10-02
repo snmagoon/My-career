@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Company** | 10Pearls Pakistan |
-| **Period** | December 2021 – October 2022 |
+| **Period** | January 2022 – October 2022 |
 | **Role** | Developer |
 | **Domain** | Facility and access management |
 | **Methodology** | Scrum, later Agile |
