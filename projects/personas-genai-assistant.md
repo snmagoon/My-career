@@ -5,9 +5,9 @@
 | **Company** | 10Pearls Pakistan |
 | **Client** | Confidential enterprise client |
 | **Period** | 2024 – present |
-| **Role** | Staff Software Consultant |
+| **Role** | Staff Software Consultant (architect and hands-on developer) |
 | **Domain** | Enterprise generative AI assistant |
-| **Status** | In production; modernisation roadmap defined |
+| **Status** | In production; revamp led by me |
 
 ## Overview
 An internal AI assistant for a global professional services firm's staff that combines generative AI and Retrieval-Augmented Generation (RAG) to help write client reports, analyse data, and find answers in the firm's document archive. Users pick a *persona* tailored to a task, and can chat with uploaded files or with knowledge-base-grounded sources. Access is through single sign-on with Microsoft Entra ID.
@@ -26,6 +26,9 @@ An internal AI assistant for a global professional services firm's staff that co
 **Key runtime flows:** streaming persona chat · chat with files (upload, chunk, summarise, retrieve) · knowledge-base-grounded answers with sources · notification lifecycle and scheduled retention cleanup.
 
 ## My contributions
+I led and personally developed the platform's revamp, from architecture through implementation.
+
+- Hands-on development of the revamped platform alongside the architecture work.
 - Produced the **Architecture Revamp Knowledge Pack**: system context and container diagrams, runtime flows, ten end-to-end use cases, security and identity model, and operations review.
 - Assessed the platform and set revamp priorities: secret hygiene with Key Vault-only retrieval, tighter CORS, consistent resilience policies (timeouts, retries, circuit breakers), idempotent message saves under stream interruption, versioned schemas, and Cosmos partitioning review.
 - Recommended a target architecture of a modular monolith with vertical slices (transport, use-case, domain, and infrastructure-adapter layers) and a strangler-pattern migration that keeps existing API contracts and introduces v2 contracts only for breaking changes.
@@ -35,5 +38,5 @@ An internal AI assistant for a global professional services firm's staff that co
 React · MSAL · Ant Design · C# / .NET 8 · Azure Functions · Cosmos DB · Redis · Blob Storage · Azure AI Search · Document Intelligence · API Management · Key Vault · Application Insights · Microsoft Graph · SendGrid · Bicep · Azure DevOps
 
 ## Resume bullets
-- Led architecture analysis of an enterprise GenAI assistant (React, .NET 8, Cosmos DB, Redis, Azure AI Search, API Management) and delivered a prioritised modernisation roadmap covering security hardening, resilience, and a strangler-pattern migration.
+- Led the revamp of an enterprise GenAI assistant (React, .NET 8, Cosmos DB, Redis, Azure AI Search, API Management) as architect and hands-on developer, delivering a prioritised modernisation roadmap covering security hardening, resilience, and a strangler-pattern migration.
 - Defined a target modular-monolith architecture with vertical slices and five delivery workstreams to simplify chat orchestration and standardise streaming contracts.

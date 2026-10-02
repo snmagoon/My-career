@@ -5,7 +5,7 @@
 | **Company** | 10Pearls Pakistan |
 | **Client** | Confidential enterprise client (EVA AI platform) |
 | **Period** | 2026 |
-| **Role** | Staff Software Consultant |
+| **Role** | Staff Software Consultant (architect and hands-on developer) |
 | **Domain** | AI safety, governance, Power Platform integration |
 
 ## Overview
@@ -32,6 +32,7 @@ An enforcement layer between users and generative AI. It screens prompts before 
 | URL and claim validation | No | Weighted risk score (green / yellow / red) |
 
 ## My contributions
+- Developed and delivered the guardrails service and its Power Platform and APIM integrations, as well as the documentation.
 - Wrote the **technical handover**: API contract, execution model, handler catalogue, and known gaps, including a response-shape mismatch with older flow documentation.
 - Designed the **Microsoft 365 custom connector** architecture and produced four architecture diagrams (component flow, enforcement layers, APIM enforcement, Copilot Studio flow).
 - Authored the **Smart Guardrails build guide** and **stakeholder presentation notes**.

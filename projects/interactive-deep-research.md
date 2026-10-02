@@ -5,7 +5,7 @@
 | **Company** | 10Pearls Pakistan |
 | **Client** | Confidential enterprise client |
 | **Period** | 2026 |
-| **Role** | Staff Software Consultant |
+| **Role** | Staff Software Consultant (architect and hands-on developer) |
 | **Domain** | Agentic AI, research automation |
 
 ## Overview
