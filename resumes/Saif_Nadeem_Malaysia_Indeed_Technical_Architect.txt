@@ -1,0 +1,75 @@
+SAIF NADEEM MAGOON, PMP
+Full Stack Technical Architect | Angular | .NET Core | Azure | AWS | Microservices | Platform Engineering
+Karachi, Pakistan | Open to onsite relocation to Malaysia | saifnadeem16@gmail.com | +92 323 2869595
+LinkedIn: linkedin.com/in/saif-nadeem-magoon-pmp-7228ba67
+
+PROFESSIONAL SUMMARY
+
+Technical architect and full stack engineer with 9+ years of software delivery (2017 to present) on Angular and .NET Core enterprise platforms. Strong in architecture design, software design patterns (CQRS, clean architecture, event-driven, strangler-pattern migration, chain of responsibility), multi-tenant and microservice platforms, system integration and platform engineering (Infrastructure-as-Code, CI/CD, API gateways). Delivered 15+ enterprise applications with 100% on-time completion and 98% client satisfaction. Built an enterprise GenAI assistant now used by 1,500+ employees at a global professional services firm. PMP certified; mentors engineers and leads client workshops. Seeking a 1-year+ onsite contract in Malaysia.
+
+CORE SKILLS
+
+- Full stack development: Angular, React, TypeScript, JavaScript, C#, .NET 8/9, .NET Core, ASP.NET Core, ASP.NET MVC, REST APIs, Blazor, Xamarin
+- Architecture and design patterns: Microservices, event-driven architecture (MassTransit, Azure Service Bus), CQRS, clean architecture, modular monolith, multi-tenant platforms, strangler-pattern migration, distributed caching (Redis), system and third-party integration, API design
+- Platform engineering: Bicep (IaC), Azure DevOps CI/CD, Docker, Jenkins, SonarCloud quality gates, Azure API Management, Container Apps, Key Vault, Application Insights, monitoring and observability
+- Cloud (AWS and Azure): Azure (30+ services incl. Cosmos DB, Functions, Service Bus, APIM, Container Apps, Redis, SignalR, AI Search); AWS (Cognito, on-premises to AWS migration, AWS-hosted Angular/.NET applications)
+- AI and automation: Azure OpenAI, Semantic Kernel, RAG, multi-agent orchestration, AI guardrails, UiPath, Power Automate, Copilot Studio
+- Databases: SQL Server, PostgreSQL, Cosmos DB, MongoDB, Redis, Azure Table Storage
+- Testing and quality: xUnit, Jest, Playwright, performance tuning and benchmarking, code reviews
+- Delivery and leadership: PMP, Agile, Scrum, Kanban, JIRA, mentoring, stakeholder and client advisory
+
+PROFESSIONAL EXPERIENCE
+
+
+Staff Software Consultant (AI and Cloud), 10Pearls Pakistan, Karachi | 06/2024 - Present
+- Staff Lead Developer on Personas, an enterprise GenAI assistant used by 1,500+ employees at a global professional services firm (React, ASP.NET Core .NET 8, Azure Functions, Cosmos DB, Redis, Azure AI Search, APIM, Bicep). Contributed from initial build through the platform revamp.
+- Authored the architecture revamp knowledge pack (system context and container diagrams, runtime flows, security and identity model). Recommended a modular monolith with vertical slices and a strangler-pattern migration that preserves existing API contracts, plus five delivery workstreams: security hardening, orchestration refactor, data contracts, reliability and observability, performance and cost.
+- Staff Lead Developer on a large multi-tenant, microservice-based Revenue Management platform (Angular, .NET, PostgreSQL, Azure): built configurable controls, role management and tenant-specific theming.
+- Built a deep-research agent platform (.NET 9, Semantic Kernel, React) with an async task queue (Azure Table Storage, Service Bus) and an automated quality-scoring retry loop; routed all AI calls through Azure API Management and closed gaps where calls bypassed it.
+- Delivered an AI guardrails service that screens prompts and responses for PII, secrets and prompt injection, using a chain-of-responsibility design; integrated it through a Power Platform custom connector and APIM policies.
+- Engineered Azure infrastructure across 30+ services; wrote modular Bicep templates for repeatable environments; built event-driven microservices with MassTransit and Service Bus; added Redis caching to cut latency.
+- Set up Azure DevOps CI/CD with xUnit, Jest, Playwright and SonarCloud quality gates; secured applications with Azure AD and MSAL.
+- Led delivery of 15+ enterprise applications at 100% on-time completion and 98% client satisfaction; raised client system efficiency by 30% and cut downtime by 30%.
+- Advised Fortune 500 and enterprise clients on digital transformation (+25% adoption and operational efficiency); ran technical workshops that lifted client team productivity 20-40%.
+
+Staff Software Engineer, 10Pearls Pakistan, Karachi | 01/2024 - 06/2024
+- Architected scalable microservices, improving system performance by 35% and cutting latency by 20%.
+- Launched 15+ high-impact features at a 98% on-time delivery rate; mentored 8 engineers, with structured code reviews cutting bugs by 40%; Agile adoption raised team productivity by 25%.
+
+Senior Software Engineer, 10Pearls Pakistan, Karachi | 01/2022 - 01/2024
+- Facility access platform (Angular, ASP.NET, PostgreSQL): implemented AWS Cognito integration and migrated the on-premises multi-tenant, microservice-based system to AWS.
+- Health record platform (ASP.NET, Angular, AWS, Xamarin): built web and cross-platform mobile features, re-themed the Angular front end and extended configurable .NET controls.
+- Performance tuning, usability and automation testing for high-scale systems; enforced code standards, reviewed code and reported progress and risks to the Project Manager.
+
+Software Engineer, M3 Technologies Pakistan (Private) Limited, Karachi (Fintech) | 08/2019 - 01/2022
+- SME financial platform integrated with Mastercard: built REST APIs, integrated third-party vendor services and engineered distributed scheduled services; optimised queries, cutting server response from minutes to seconds.
+- Multi-tenant configurable banking platform (ASP.NET MVC, Angular, SQL Server, Active Directory): built configurable controls and tenant-specific features with hierarchical reporting; advised product managers.
+
+.NET Developer / VR Development, Indistech, Karachi | 03/2018 - 07/2019
+- Built web-based and VR/AR applications for marketing events, including a custom survey application and an e-commerce site; delivered technical training nationwide; reported directly to the CTO and CEO.
+
+Junior Software Engineer, Code Aesthetic, Karachi | 07/2017 - 03/2018
+- Built features for a US state government food platform (My Food Cloud); created a SignalR real-time service; wrote a SQL procedure that split the main database into 46 databases; set up Jenkins CI linked to GitHub.
+
+EDUCATION
+
+- BSc Computer Software Engineering, SZABIST University, Karachi (2013 - 2017)
+- Intermediate in Computer Science, Sheikh Khalifa Bin Zayed College, Karachi (2010 - 2012)
+
+CERTIFICATIONS
+
+- Project Management Professional (PMP), Project Management Institute, 12/2025
+- Practical Application of Generative AI for Project Managers, PMI, 05/2025
+- Generative AI Overview for Project Managers, PMI, 03/2025
+- Microservices Foundations Professional Certificate, Kong, 09/2024
+- Docker Foundations Professional Certificate, Docker, 08/2024
+- Career Essentials in Generative AI, Microsoft and LinkedIn, 08/2024
+- Career Essentials in Software Development, Microsoft and LinkedIn, 05/2024
+- Career Essentials in Cybersecurity, Microsoft and LinkedIn, 05/2024
+- Software Architecture: Meta and SOLID Principles in C#, Udemy
+- API in C#: The Best Practices of Design and Implementation, Udemy
+- Web Development and Design, Aptech
+
+AVAILABILITY AND LANGUAGES
+
+- Available for a 1-year+ extendable onsite contract in Malaysia. Notice period: [ADD YOUR NOTICE PERIOD]. English (professional), Urdu (professional).
