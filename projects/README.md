@@ -3,7 +3,7 @@
 ## 10Pearls Pakistan
 | Project | Domain | Period | Role | File |
 |---|---|---|---|---|
-| Personas: Enterprise GenAI Assistant | Generative AI | 2024 – present | Staff Software Consultant (architect and developer) | [personas-genai-assistant.md](personas-genai-assistant.md) |
+| Personas: Enterprise GenAI Assistant | Generative AI | 2024 – present | Staff Software Consultant (developer, initial build and revamp) | [personas-genai-assistant.md](personas-genai-assistant.md) |
 | Interactive Deep Research | Agentic AI, research automation | 2026 | Staff Software Consultant (architect and developer) | [interactive-deep-research.md](interactive-deep-research.md) |
 | EVA Smart Guardrails | AI safety and governance | 2026 | Staff Software Consultant (architect and developer) | [eva-smart-guardrails.md](eva-smart-guardrails.md) |
 | Revenue Management Services Platform | Revenue management | Aug 2024 – 2025 | Senior Developer | [revenue-management-platform.md](revenue-management-platform.md) |
