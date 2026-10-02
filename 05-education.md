@@ -1,12 +1,12 @@
 # Education
 
 ## Bachelor of Science (BSc) in Computer Software Engineering
-**SZABIST University** (LinkedIn lists the Islamabad campus; the resume says Karachi, CONFIRM) · 2013 – 2017
+**SZABIST University, Karachi** · 2013 – 2017
 
 - Final-year project and honors: **TODO**
 
-## BSCS — skbz
-2010 – 2012 (institution name as written on LinkedIn; CONFIRM full name and whether completed)
+## BSCS (Intermediate)
+**Sheikh Khalifa Bin Zayed College, Karachi** · 2010 – 2012
 
 ## Other training
 - Web Development and Design: Aptech _(date TODO)_
