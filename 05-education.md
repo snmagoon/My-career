@@ -5,7 +5,7 @@
 
 - Final-year project and honors: **TODO**
 
-## BSCS (Intermediate)
+## Intermediate in Computer Science (ICS)
 **Sheikh Khalifa Bin Zayed College, Karachi** · 2010 – 2012
 
 ## Other training
