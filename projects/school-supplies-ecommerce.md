@@ -2,6 +2,7 @@
 
 | | |
 |---|---|
+| **Company** | Indistech |
 | **Period** | June 2016 – September 2017 |
 | **Role** | Developer |
 | **Domain** | E-commerce |

@@ -2,6 +2,7 @@
 
 | | |
 |---|---|
+| **Company** | M3 Technologies Pakistan (Private) Limited |
 | **Period** | September 2020 – November 2021 |
 | **Role** | Developer |
 | **Domain** | Banking |

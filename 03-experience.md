@@ -31,7 +31,7 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 - Advised Fortune 500 and enterprise clients on digital transformation, lifting adoption and operational efficiency by 25%.
 - Ran technical workshops and training, boosting client team productivity by 20–40%.
 
-**Projects:** [BDO Personas](projects/bdo-personas.md) · [Interactive Deep Research](projects/interactive-deep-research.md) · [EVA Smart Guardrails](projects/eva-smart-guardrails.md)
+**Projects:** [Personas GenAI Assistant](projects/personas-genai-assistant.md) · [Interactive Deep Research](projects/interactive-deep-research.md) · [EVA Smart Guardrails](projects/eva-smart-guardrails.md)
 
 **Tech:** C#, .NET 8/9, React, TypeScript, Azure OpenAI, Semantic Kernel, Azure AI Search, Cosmos DB, Redis, Service Bus, APIM, Bicep, Azure DevOps
 
@@ -56,6 +56,8 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 - Enforced code standards and reviews; mentored technical staff and resolved complex technical issues.
 - Worked with the Project Manager on progress reporting and risk mitigation.
 
+**Projects:** [Revenue Management Services Platform](projects/revenue-management-platform.md) · [Health Record Management](projects/health-record-management.md) · [Facility Access Management](projects/facility-access-management.md)
+
 ---
 
 ## Software Engineer — M3 Technologies Pakistan (Private) Limited
@@ -67,6 +69,8 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 - Optimized queries, cutting server response times from minutes to seconds.
 - Reviewed peer code; coordinated with large teams for on-time delivery.
 
+**Projects:** [SME Financial Platform](projects/sme-financial-platform.md) · [Multi-Tenant Platform for a Bank](projects/bank-multi-tenant-platform.md)
+
 ---
 
 ## .NET Developer / VR Development — Indistech
@@ -76,15 +80,19 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 - Added product features and delivered technical training to teams nationwide.
 - Reported directly to the CTO and CEO on project progress.
 
+**Projects:** [Custom Survey Application](projects/survey-application.md) · [School Supplies E-commerce](projects/school-supplies-ecommerce.md)
+
 ---
 
 ## Junior Software Engineer — Code Aesthetic
 **Karachi, Pakistan · 07/2017 – 03/2018**
 
-- Developed new features for "My Food Cloud", improving the user experience for the Texas Department of Agriculture.
+- Developed new features for "My Food Cloud", improving the user experience for a US state government agency.
 - Created a SignalR service for real-time communication within the application.
 - Wrote a SQL procedure that segmented the main database into 46 distinct databases, improving data management.
 - Set up a Continuous Integration environment using Jenkins, linked with GitHub, to streamline deployment.
+
+**Project:** [My Food Cloud](projects/my-food-cloud.md)
 
 ---
 

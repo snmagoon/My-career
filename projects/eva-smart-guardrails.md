@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Company** | 10Pearls Pakistan |
-| **Client** | BDO (EVA AI platform) |
+| **Client** | Confidential enterprise client (EVA AI platform) |
 | **Period** | 2026 |
 | **Role** | Staff Software Consultant |
 | **Domain** | AI safety, governance, Power Platform integration |

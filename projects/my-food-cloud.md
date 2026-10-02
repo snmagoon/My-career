@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Company** | Code Aesthetic |
-| **Client** | Texas Department of Agriculture |
+| **Client** | US state government agency |
 | **Period** | 07/2017 – 03/2018 |
 | **Role** | Junior Software Engineer |
 
@@ -17,5 +17,5 @@
 .NET · SignalR · SQL Server · Jenkins · GitHub
 
 ## Resume bullets
-- Implemented a SQL procedure segmenting a monolithic database into 46 databases, and a SignalR real-time service, for a Texas Department of Agriculture platform.
+- Implemented a SQL procedure segmenting a monolithic database into 46 databases, and a SignalR real-time service, for a US state government platform.
 - Established a Jenkins CI pipeline integrated with GitHub.

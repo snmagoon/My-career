@@ -9,7 +9,7 @@ I'm Saif Nadeem Magoon, a Staff Software Consultant at 10Pearls in Karachi. Over
 ## Long-form bio
 I'm an AI and cloud software engineer and PMP®-certified delivery lead based in Karachi, Pakistan. I started in 2017 as a junior engineer and spent my early career on .NET web, VR/AR, and fintech work, including an SME credit platform integrated with Mastercard at M3 Technologies.
 
-At 10Pearls Pakistan since 2022, I progressed from Senior Software Engineer to Staff Software Engineer to Staff Software Consultant. Today I work within an Innovation & Digital Office for BDO, a global professional services firm, building enterprise GenAI products: persona-based chat assistants, deep-research tools, and an AI guardrails layer that screens prompts and responses for PII, secrets, and prompt injection. My day-to-day stack is C#/.NET 8/9, React/TypeScript, Azure OpenAI, Semantic Kernel, Cosmos DB, Service Bus, APIM, Bicep, and Azure DevOps.
+At 10Pearls Pakistan since 2022, I progressed from Senior Software Engineer to Staff Software Engineer to Staff Software Consultant. Today I work within an Innovation & Digital Office for a global professional services firm, building enterprise GenAI products: persona-based chat assistants, deep-research tools, and an AI guardrails layer that screens prompts and responses for PII, secrets, and prompt injection. My day-to-day stack is C#/.NET 8/9, React/TypeScript, Azure OpenAI, Semantic Kernel, Cosmos DB, Service Bus, APIM, Bicep, and Azure DevOps.
 
 I also advise clients on digital transformation, run technical workshops, and mentor engineers. I'm open to international relocation and remote opportunities.
 

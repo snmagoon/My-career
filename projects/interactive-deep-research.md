@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Company** | 10Pearls Pakistan |
-| **Client** | BDO |
+| **Client** | Confidential enterprise client |
 | **Period** | 2026 |
 | **Role** | Staff Software Consultant |
 | **Domain** | Agentic AI, research automation |

@@ -2,6 +2,7 @@
 
 | | |
 |---|---|
+| **Company** | 10Pearls Pakistan |
 | **Period** | August 2024 – 2025 |
 | **Role** | Senior Developer |
 | **Domain** | Revenue management services |

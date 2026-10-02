@@ -1,16 +1,16 @@
-# BDO Personas
+# Personas: Enterprise GenAI Assistant
 
 | | |
 |---|---|
 | **Company** | 10Pearls Pakistan |
-| **Client** | BDO |
+| **Client** | Confidential enterprise client |
 | **Period** | 2024 – present |
 | **Role** | Staff Software Consultant |
 | **Domain** | Enterprise generative AI assistant |
 | **Status** | In production; modernisation roadmap defined |
 
 ## Overview
-An internal AI assistant for BDO staff that combines generative AI and Retrieval-Augmented Generation (RAG) to help write client reports, analyse data, and find answers in the firm's document archive. Users pick a *persona* tailored to a task, and can chat with uploaded files or with knowledge-base-grounded sources. Access is through single sign-on with Microsoft Entra ID.
+An internal AI assistant for a global professional services firm's staff that combines generative AI and Retrieval-Augmented Generation (RAG) to help write client reports, analyse data, and find answers in the firm's document archive. Users pick a *persona* tailored to a task, and can chat with uploaded files or with knowledge-base-grounded sources. Access is through single sign-on with Microsoft Entra ID.
 
 ## Architecture
 | Layer | Technology |
@@ -19,7 +19,7 @@ An internal AI assistant for BDO staff that combines generative AI and Retrieval
 | API | ASP.NET Core on .NET 8: persona chat, file chat, knowledge retrieval, notifications, admin, user profile and consent |
 | Background jobs | Azure Functions timers for conversation-retention cleanup and deletion notices |
 | Data | Cosmos DB (threads, messages, personas, profiles), Redis distributed cache, Blob Storage |
-| AI and search | Azure API Management in front of the LLM endpoints, Azure AI Document Intelligence, Azure AI Search, BDO Search API |
+| AI and search | Azure API Management in front of the LLM endpoints, Azure AI Document Intelligence, Azure AI Search, enterprise search API |
 | Integrations | Microsoft Graph, SendGrid, PDF export function |
 | Platform | Key Vault references, Application Insights, Bicep IaC, Azure DevOps YAML pipelines |
 

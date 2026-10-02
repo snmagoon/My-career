@@ -2,6 +2,7 @@
 
 | | |
 |---|---|
+| **Company** | 10Pearls Pakistan |
 | **Period** | November 2022 – April 2023 |
 | **Role** | Developer |
 | **Domain** | Healthcare |

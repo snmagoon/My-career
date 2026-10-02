@@ -2,6 +2,7 @@
 
 | | |
 |---|---|
+| **Company** | Indistech |
 | **Period** | October 2018 – August 2019 |
 | **Role** | Developer |
 | **Domain** | Data collection and analytics |
