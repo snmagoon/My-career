@@ -24,8 +24,8 @@ MassTransit · Azure Service Bus
 ## Testing and quality
 xUnit · Jest · Playwright · Automation testing · Performance tuning and benchmarking · Code reviews
 
-## Power Platform / M365 integration
-Custom connectors · Power Automate · Copilot Studio · DLP governance (from the EVA Guardrails project)
+## Automation, RPA and Power Platform
+UiPath RPA workflows · Power Automate (cloud flows and RPA) · Copilot Studio agents · Power Platform custom connectors · AI Builder · DLP governance · CoE Starter Kit
 
 ## Management and leadership
 PMP® · Agile methodologies · Scrum · Kanban · JIRA · Team leadership · Mentorship · Client advisory · Technical workshops · Risk reporting · Conflict resolution · Communication

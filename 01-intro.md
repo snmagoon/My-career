@@ -17,5 +17,6 @@ I also advise clients on digital transformation, run technical workshops, and me
 - **Leadership scale:** led delivery of 15+ enterprise applications with 100% on-time completion and 98% client satisfaction.
 - **AI depth:** RAG on Azure OpenAI + Azure AI Search, multi-agent orchestration with Semantic Kernel, agentic deep-search workflows.
 - **Architecture:** event-driven microservices (MassTransit + Service Bus), CQRS, clean architecture, Redis caching, IaC with Bicep.
+- **Automation:** UiPath and Power Automate RPA workflows, Copilot Studio agents, and custom connectors that bring AI into everyday business processes.
 - **Governance mindset:** routed all AI traffic through APIM and built a guardrails layer (PII, secrets, prompt-injection checks) for enterprise AI safety.
 - **People:** mentored 8 engineers, cutting bugs by 40% through structured code reviews.

@@ -20,6 +20,7 @@ Staff Software Consultant at 10Pearls building enterprise AI and cloud platforms
 
 ## Key strengths
 - Enterprise GenAI: RAG, agents, guardrails, deep research
+- Intelligent automation: UiPath, Power Automate, Copilot Studio, and custom connectors
 - Azure cloud architecture and Infrastructure-as-Code
 - Technical leadership, mentoring, and client advisory
 - Delivery management (PMP®, Agile)

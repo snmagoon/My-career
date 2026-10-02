@@ -16,6 +16,10 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 - Led projects using agentic AI for deep search and workflow automation; developed custom AI solutions for internal corporate use.
 - Built the UI and backend of an AI assistant with React and Azure Functions, including unit tests.
 
+**Automation and low-code (past year)**
+- Built RPA workflows with UiPath and Power Automate to automate enterprise processes.
+- Developed Copilot Studio agents and Power Platform custom connectors, including an organisational connector for the EVA guardrails API.
+
 **Cloud and architecture**
 - Engineered Azure infrastructure across 30+ services, including Cosmos DB, Service Bus, API Management, Container Apps, Redis, SignalR, and Azure Functions.
 - Built event-driven microservices with MassTransit and Azure Service Bus.
@@ -33,7 +37,7 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 
 **Projects:** [Personas GenAI Assistant](projects/personas-genai-assistant.md) · [Interactive Deep Research](projects/interactive-deep-research.md) · [EVA Smart Guardrails](projects/eva-smart-guardrails.md)
 
-**Tech:** C#, .NET 8/9, React, TypeScript, Azure OpenAI, Semantic Kernel, Azure AI Search, Cosmos DB, Redis, Service Bus, APIM, Bicep, Azure DevOps
+**Tech:** UiPath, Power Automate, Copilot Studio, Power Platform custom connectors, C#, .NET 8/9, React, TypeScript, Azure OpenAI, Semantic Kernel, Azure AI Search, Cosmos DB, Redis, Service Bus, APIM, Bicep, Azure DevOps
 
 ---
 
