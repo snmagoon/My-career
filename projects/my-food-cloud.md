@@ -1,0 +1,16 @@
+# My Food Cloud
+
+**Company:** Code Aesthetic · **Client:** Texas Department of Agriculture · **Period:** 07/2017 – 03/2018 · **Role:** Junior Software Engineer
+
+## My contributions
+- Developed new features that improved the user experience.
+- Built a SignalR service for real-time communication.
+- Wrote a SQL procedure that split the main database into 46 databases.
+- Set up CI with Jenkins linked to GitHub.
+
+## Tech stack
+.NET, SignalR, SQL Server, Jenkins, GitHub.
+
+## Resume bullets
+- Implemented a SQL procedure segmenting a monolithic database into 46 databases, and a SignalR real-time service, for a Texas Department of Agriculture platform.
+- Established a Jenkins CI pipeline integrated with GitHub.
