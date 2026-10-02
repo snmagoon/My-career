@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Period** | August 2024 – present |
+| **Period** | August 2024 – 2025 |
 | **Role** | Senior Developer |
 | **Domain** | Revenue management services |
 | **Methodology** | Scrum, later Kanban |

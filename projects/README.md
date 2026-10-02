@@ -16,7 +16,7 @@
 ## Additional projects (from project sheet)
 | Project | Period | Role | File |
 |---|---|---|---|
-| Revenue Management Services Platform | Aug 2024 – present | Senior Developer | [revenue-management-platform.md](revenue-management-platform.md) |
+| Revenue Management Services Platform | Aug 2024 – 2025 | Senior Developer | [revenue-management-platform.md](revenue-management-platform.md) |
 | Health Record Management Application | Nov 2022 – Apr 2023 | Developer | [health-record-management.md](health-record-management.md) |
 | Facility Access Management Multi-Tenant System | Dec 2021 – Oct 2022 | Developer | [facility-access-management.md](facility-access-management.md) |
 | Multi-Tenant Configurable Platform for a Bank | Sep 2020 – Nov 2021 | Developer | [bank-multi-tenant-platform.md](bank-multi-tenant-platform.md) |
