@@ -1,4 +1,4 @@
-# Company Research Pack: UiPath and Copilot Studio Automation
+# Company Research Pack: UiPath and Copilot Studio Experiments
 
 | | |
 |---|---|
@@ -7,10 +7,10 @@
 | **Period** | 2026 |
 | **Role** | Staff Lead Developer |
 | **Domain** | Intelligent automation, AI-driven due diligence |
-| **Type** | Platform replication / proof of concept |
+| **Type** | Feasibility experiments (proof of concept) |
 
 ## Overview
-The Company Research Pack is an AI-driven due-diligence flow, originally a Python / FastAPI / CrewAI multi-agent application with 18 steps. It researches a UK company and produces a branded PDF report. I replicated the whole flow twice on low-code and RPA platforms, **UiPath** and **Microsoft Copilot Studio**, to evaluate how far each platform can match a custom-coded agentic system.
+The Company Research Pack is an AI-driven due-diligence flow, originally a Python / FastAPI / CrewAI multi-agent application with 18 steps. It researches a UK company and produces a branded PDF report. I ran two experiments to replicate the whole flow on low-code and RPA platforms, **UiPath** and **Microsoft Copilot Studio**. The goal was to find out whether either platform could deliver what we needed, so that future agentic solutions could be built with less development time than custom code.
 
 **What the flow does:** takes a company name, number and website; pulls officers, filings, company record and persons with significant control from the Companies House API; extracts financial data from filings; researches directors, competitors, news, industry trends and HMRC rulings with web-search agents; analyses sentiment and Russia/China country ties; checks the UK sanctions list; generates a consolidated PDF report; and uploads the result to the EVA platform with progress events published to Azure Service Bus.
 
@@ -32,13 +32,13 @@ The Company Research Pack is an AI-driven due-diligence flow, originally a Pytho
 - Produced an honest **gap analysis**: Service Bus event granularity, concurrency control, RPA-based financial extraction, PDF branding parity, agent iteration limits, and cost model.
 
 ## Outcomes
-- A working blueprint for moving a code-first multi-agent system onto UiPath and onto Copilot Studio, with a mapping of every step to platform building blocks.
-- Clear guidance on where each platform fits and where custom code (Azure Functions) is still needed.
+- A feasibility assessment of both platforms against the code-first system, with every step mapped to platform building blocks.
+- Clear guidance on where each platform fits, where custom code (Azure Functions) is still needed, and where the gaps and cost trade-offs lie, to inform decisions on reducing development time.
 
 ## Tech stack
 UiPath (Maestro, Studio Web, Orchestrator, autonomous agents, AI Trust Layer, Context Grounding) · Microsoft Copilot Studio (agents, workflows, agent flows) · Power Automate · Power Platform custom connectors · Azure Service Bus · Azure Functions · Azure Key Vault · Azure OpenAI · Companies House API · Python / FastAPI / CrewAI (source system)
 
 ## Resume bullets
-- Replicated an 18-step AI due-diligence pipeline (Python / CrewAI) on UiPath using Maestro BPMN orchestration, Studio Web RPA workflows, and autonomous LLM agents with evaluation sets.
-- Rebuilt the same pipeline in Copilot Studio with custom connectors, generative actions, retry loops, and Key Vault-backed secrets, and documented platform gaps and workarounds for architecture decision-making.
-- Authored step-by-step implementation guides and a Service Bus event specification used to evaluate low-code and RPA platforms against a custom-coded agentic system.
+- Ran a feasibility experiment to cut development time by replicating an 18-step AI due-diligence pipeline (Python / CrewAI) on UiPath using Maestro BPMN orchestration, Studio Web RPA workflows, and autonomous LLM agents with evaluation sets.
+- Ran the same experiment in Copilot Studio with custom connectors, generative actions, retry loops, and Key Vault-backed secrets, and documented platform gaps and workarounds to support the build-versus-buy decision.
+- Authored step-by-step implementation guides and a Service Bus event specification used to evaluate whether low-code and RPA platforms could replace custom-coded agentic development.

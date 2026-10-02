@@ -17,7 +17,7 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 - Built the UI and backend of an AI assistant with React and Azure Functions, including unit tests.
 
 **Automation and low-code (past year)**
-- Replicated an 18-step AI due-diligence pipeline on **UiPath** (Maestro BPMN process, Studio Web RPA workflows, autonomous agents with evaluation sets) and again in **Copilot Studio** (agents, workflows, generative actions, retry loops).
+- Ran feasibility experiments to see whether **UiPath** or **Copilot Studio** could cut development time for agentic solutions, by replicating an existing 18-step AI due-diligence pipeline on **UiPath** (Maestro BPMN process, Studio Web RPA workflows, autonomous agents with evaluation sets) and again in **Copilot Studio** (agents, workflows, generative actions, retry loops).
 - Built Power Platform **custom connectors** (including an organisational connector for the EVA guardrails API) and Power Automate flows, with secrets in Key Vault-backed environment variables.
 - Documented platform gaps and workarounds to support build-versus-buy decisions.
 
