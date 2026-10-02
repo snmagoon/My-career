@@ -17,8 +17,9 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 - Built the UI and backend of an AI assistant with React and Azure Functions, including unit tests.
 
 **Automation and low-code (past year)**
-- Built RPA workflows with UiPath and Power Automate to automate enterprise processes.
-- Developed Copilot Studio agents and Power Platform custom connectors, including an organisational connector for the EVA guardrails API.
+- Replicated an 18-step AI due-diligence pipeline on **UiPath** (Maestro BPMN process, Studio Web RPA workflows, autonomous agents with evaluation sets) and again in **Copilot Studio** (agents, workflows, generative actions, retry loops).
+- Built Power Platform **custom connectors** (including an organisational connector for the EVA guardrails API) and Power Automate flows, with secrets in Key Vault-backed environment variables.
+- Documented platform gaps and workarounds to support build-versus-buy decisions.
 
 **Cloud and architecture**
 - Engineered Azure infrastructure across 30+ services, including Cosmos DB, Service Bus, API Management, Container Apps, Redis, SignalR, and Azure Functions.
@@ -35,7 +36,7 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 - Advised Fortune 500 and enterprise clients on digital transformation, lifting adoption and operational efficiency by 25%.
 - Ran technical workshops and training, boosting client team productivity by 20–40%.
 
-**Projects:** [Personas GenAI Assistant](projects/personas-genai-assistant.md) · [Interactive Deep Research](projects/interactive-deep-research.md) · [EVA Smart Guardrails](projects/eva-smart-guardrails.md)
+**Projects:** [Personas GenAI Assistant](projects/personas-genai-assistant.md) · [Interactive Deep Research](projects/interactive-deep-research.md) · [EVA Smart Guardrails](projects/eva-smart-guardrails.md) · [Company Research Automation (UiPath and Copilot Studio)](projects/company-research-automation.md)
 
 **Tech:** UiPath, Power Automate, Copilot Studio, Power Platform custom connectors, C#, .NET 8/9, React, TypeScript, Azure OpenAI, Semantic Kernel, Azure AI Search, Cosmos DB, Redis, Service Bus, APIM, Bicep, Azure DevOps
 

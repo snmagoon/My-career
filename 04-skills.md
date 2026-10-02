@@ -25,7 +25,7 @@ MassTransit · Azure Service Bus
 xUnit · Jest · Playwright · Automation testing · Performance tuning and benchmarking · Code reviews
 
 ## Automation, RPA and Power Platform
-UiPath RPA workflows · Power Automate (cloud flows and RPA) · Copilot Studio agents · Power Platform custom connectors · AI Builder · DLP governance · CoE Starter Kit
+UiPath (Maestro agentic processes, Studio Web RPA workflows, autonomous agents, Orchestrator, AI Trust Layer, Context Grounding) · Power Automate (cloud flows and RPA) · Copilot Studio agents · Power Platform custom connectors · AI Builder · DLP governance · CoE Starter Kit
 
 ## Management and leadership
 PMP® · Agile methodologies · Scrum · Kanban · JIRA · Team leadership · Mentorship · Client advisory · Technical workshops · Risk reporting · Conflict resolution · Communication
