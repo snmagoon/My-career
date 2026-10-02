@@ -1,5 +1,13 @@
 # Skills
 
+## Core stack
+The four pillars everything else builds on:
+- **Azure:** 30+ services, including App Service, Functions, Container Apps, Cosmos DB, Service Bus, API Management, Redis, Key Vault, Azure OpenAI and AI Search; Bicep IaC and Azure DevOps CI/CD
+- **.NET:** C#, .NET 8/9, ASP.NET Core and MVC, Web APIs, microservices
+- **Angular:** configurable multi-tenant front ends, theming, enterprise portals
+- **React:** TypeScript SPAs, MSAL authentication, AI assistant and chat interfaces
+
+
 ## Languages
 C# · TypeScript · JavaScript · SQL _(Python: read and reviewed FastAPI services; not listed on resumes)_
 
