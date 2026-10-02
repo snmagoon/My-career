@@ -1,22 +1,22 @@
 SAIF NADEEM MAGOON, PMP
-Full Stack Technical Architect | Angular | .NET Core | Azure | AWS | Microservices | Platform Engineering
+Senior Software Developer (.NET / C#) | Web API | Angular | React | Microservices | Docker | Azure DevOps | Generative AI
 Karachi, Pakistan | Open to onsite relocation to Malaysia | saifnadeem16@gmail.com | +92 323 2869595
 LinkedIn: linkedin.com/in/saif-nadeem-magoon-pmp-7228ba67
 
 PROFESSIONAL SUMMARY
 
-Technical architect and full stack engineer with 9+ years of software delivery (2017 to present) on Angular and .NET Core enterprise platforms. Strong in architecture design, software design patterns (CQRS, clean architecture, event-driven, strangler-pattern migration, chain of responsibility), multi-tenant and microservice platforms, system integration and platform engineering (Infrastructure-as-Code, CI/CD, API gateways). Delivered 15+ enterprise applications with 100% on-time completion and 98% client satisfaction. Built an enterprise GenAI assistant now used by 1,500+ employees at a global professional services firm. PMP certified; mentors engineers and leads client workshops. Seeking a 1-year+ onsite contract in Malaysia.
+Senior .NET / C# developer with 9+ years of experience designing, building, testing and releasing enterprise applications across the full software lifecycle, from requirements analysis and technical design to deployment and support. Strong in ASP.NET Core Web API and REST, SQL and NoSQL data persistence, Angular and React front ends, microservices, event-driven messaging, Docker and Azure DevOps CI/CD. Applies SOLID, clean architecture, CQRS and design patterns, and builds Generative AI solutions on Azure OpenAI. Delivered 15+ enterprise applications at 100% on-time completion and 98% client satisfaction, including an AI assistant used by 1,500+ employees. Agile/Scrum practitioner and PMP certified. Seeking a 1-year+ extendable contract in Kuala Lumpur.
 
 CORE SKILLS
 
-- Full stack development: Angular, React, TypeScript, JavaScript, C#, .NET 8/9, .NET Core, ASP.NET Core, ASP.NET MVC, REST APIs, Blazor, Xamarin
-- Architecture and design patterns: Microservices, event-driven architecture (MassTransit, Azure Service Bus), CQRS, clean architecture, modular monolith, multi-tenant platforms, strangler-pattern migration, distributed caching (Redis), system and third-party integration, API design
-- Platform engineering: Bicep (IaC), Azure DevOps CI/CD, Docker, Jenkins, SonarCloud quality gates, Azure API Management, Container Apps, Key Vault, Application Insights, monitoring and observability
-- Cloud (AWS and Azure): Azure (30+ services incl. Cosmos DB, Functions, Service Bus, APIM, Container Apps, Redis, SignalR, AI Search); AWS (Cognito, on-premises to AWS migration, AWS-hosted Angular/.NET applications)
-- AI and automation: Azure OpenAI, Semantic Kernel, RAG, multi-agent orchestration, AI guardrails, UiPath, Power Automate, Copilot Studio
-- Databases: SQL Server, PostgreSQL, Cosmos DB, MongoDB, Redis, Azure Table Storage
-- Testing and quality: xUnit, Jest, Playwright, performance tuning and benchmarking, code reviews
-- Delivery and leadership: PMP, Agile, Scrum, Kanban, JIRA, mentoring, stakeholder and client advisory
+- Back end: C#, .NET 8/9, .NET Core, ASP.NET Core, ASP.NET MVC, Web API, REST, microservices
+- Data persistence: SQL Server, PostgreSQL, Cosmos DB, MongoDB, Redis, Azure Table Storage; data migration and query optimisation
+- Front end: Angular, React, TypeScript, JavaScript, HTML, CSS, Bootstrap, jQuery
+- Design and architecture: SOLID, clean architecture, CQRS, event-driven design, design patterns, multi-tenant platforms, strangler-pattern migration
+- CI/CD, containers and messaging: Azure DevOps CI/CD, Docker, Jenkins, SonarCloud, Bicep, Azure API Management, Container Apps, Application Insights, MassTransit, Azure Service Bus
+- Generative AI: Azure OpenAI, Semantic Kernel, RAG, AI agents, prompt engineering, AI guardrails
+- Cloud: Azure (30+ services); AWS (Cognito, on-premises to AWS migration)
+- Practices: Agile, Scrum, Kanban, JIRA, Git, xUnit, Jest, Playwright, code reviews, mentoring, requirements analysis
 
 PROFESSIONAL EXPERIENCE
 
@@ -72,4 +72,4 @@ CERTIFICATIONS
 
 AVAILABILITY AND LANGUAGES
 
-- Available for a 1-year+ extendable onsite contract in Malaysia. Notice period: 20 days. English (professional), Urdu (professional).
+- Available for a 1-year+ extendable contract in Kuala Lumpur, Malaysia. Notice period: 20 days. English (professional), Urdu (professional).

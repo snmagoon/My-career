@@ -1,0 +1,22 @@
+Subject: Application for Senior Software Developer (.NET / C#), Kuala Lumpur (1-year extendable contract)
+
+Dear Hiring Team,
+
+I'm applying for the Senior Software Developer (.NET / C#) contract in Kuala Lumpur. I have 9 years of experience building enterprise applications on C# and .NET, and the role matches the work I do every day.
+
+I have taken applications through the full lifecycle: requirements analysis, technical design, development, testing, deployment and support. My core stack is ASP.NET Core Web API and REST, SQL Server and PostgreSQL, Angular and React front ends, and microservices with MassTransit and Azure Service Bus. I apply SOLID, clean architecture and CQRS, run Azure DevOps CI/CD with xUnit, Jest and Playwright, and use Docker for containerised deployments.
+
+Recent highlights:
+- Led delivery of 15+ enterprise applications at 100% on-time completion and 98% client satisfaction.
+- Built an enterprise AI assistant on .NET and Azure OpenAI, now used by 1,500+ employees at a global professional services firm.
+- Migrated an on-premises multi-tenant platform to AWS and integrated AWS Cognito.
+- Cut query response times on a fintech platform from minutes to seconds.
+
+I work in Agile/Scrum teams, collaborate with analysts, QA and architects, and mentor junior engineers. I'm PMP certified and use Generative AI to improve how I design and build software.
+
+I am based in Karachi and ready to relocate to Kuala Lumpur. I would require work-pass support, and I'm happy to discuss the details. I'd welcome the chance to talk about how I can contribute to your team.
+
+Kind regards,
+Saif Nadeem Magoon, PMP
+saifnadeem16@gmail.com | +92 323 2869595
+linkedin.com/in/saif-nadeem-magoon-pmp-7228ba67
