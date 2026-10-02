@@ -21,7 +21,7 @@ Single source of truth for my professional profile, split into one Markdown file
 | 9 | [Resumes](resumes/README.md) | Source PDFs and when to use each |
 
 ## Sources
-Built from two resumes, the LinkedIn profile export, and the project documentation bundle. Items marked `TODO` or `CONFIRM` could not be verified from those documents.
+Compiled from two resumes, the LinkedIn profile export, and the project documentation bundle. 
 
 ## Confidentiality note
 Project files describe architecture and my contribution only. They deliberately leave out client secrets, internal URLs, tenant/client IDs, and API keys that appear in the source docs. Check each client's NDA before sharing details publicly.

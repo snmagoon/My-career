@@ -24,5 +24,3 @@
 - Udemy Software Architecture: https://www.udemy.com/certificate/UC-50d871ac-2bfa-4815-a55b-5394c95a4075/
 - LinkedIn Learning links are in the Full Stack resume PDF.
 
-## Discrepancy to fix
-The AI & Cloud resume dates the PMP to **2025**; the Full Stack resume says **12/2025**. Use 12/2025.

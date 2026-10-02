@@ -1,6 +1,8 @@
 # Experience
 
-_Most recent first. Sources: both resumes._
+**10Pearls Pakistan: 4 years 10 months (01/2022 – present)** · Senior Software Engineer → Staff Software Engineer → Staff Software Consultant
+
+_Most recent first._
 
 ## Staff Software Consultant (AI & Cloud) — 10Pearls Pakistan
 **Karachi, Pakistan · 06/2024 – Present**
@@ -30,6 +32,7 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 - Ran technical workshops and training, boosting client team productivity by 20–40%.
 
 **Projects:** [BDO Personas](projects/bdo-personas.md) · [Interactive Deep Research](projects/interactive-deep-research.md) · [EVA Smart Guardrails](projects/eva-smart-guardrails.md)
+
 **Tech:** C#, .NET 8/9, React, TypeScript, Azure OpenAI, Semantic Kernel, Azure AI Search, Cosmos DB, Redis, Service Bus, APIM, Bicep, Azure DevOps
 
 ---
@@ -76,7 +79,7 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 ---
 
 ## Junior Software Engineer — Code Aesthetic
-**Karachi, Pakistan · 07/2017 – 03/2018** (LinkedIn dates; the resume says 10/2017)
+**Karachi, Pakistan · 07/2017 – 03/2018**
 
 - Developed new features for "My Food Cloud", improving the user experience for the Texas Department of Agriculture.
 - Created a SignalR service for real-time communication within the application.
@@ -85,12 +88,10 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 
 ---
 
-## Earlier roles (LinkedIn only)
+## Earlier roles
 | Role | Organisation | Dates |
 |---|---|---|
 | Internship Web Developer / Designer | Sevto Technologies, Karachi | 05/2016 – 09/2016 |
 | Junior Research Associate | AUA Solution, Karachi | 01/2013 – 08/2013 |
 | International Commodities Trader | Harvest Topworth International (HTI) | 06/2011 – 10/2011 |
 
-## Tenure at 10Pearls
-4 years 10 months so far (since 01/2022).

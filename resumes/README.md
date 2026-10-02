@@ -6,10 +6,8 @@
 | [Saif_Nadeem_Full_Stack_AI_Specialist.pdf](Saif_Nadeem_Full_Stack_AI_Specialist.pdf) | Full Stack Developer & AI specialist: metrics, full certificate list, all roles | Consulting, lead, and general engineering roles |
 | [LinkedIn_Profile_Export.pdf](LinkedIn_Profile_Export.pdf) | LinkedIn export | Most complete job history, including 2011–2018 roles |
 
-## Known inconsistencies to clean up
-- The Full Stack resume spells "Karchi" for one location and uses mixed formats for Karachi.
-- PMP date differs between resumes (see [certifications](../06-certifications.md)).
-- Only the Full Stack resume shows the Code Aesthetic role and the full certificate list.
-- The AI & Cloud resume omits the PMP detail and most of the metrics.
-
-> These PDFs contain your phone and email. If this repo is public, consider removing them.
+## Notes
+- The PMP is dated 12/2025 (see [certifications](../06-certifications.md)).
+- The Full Stack resume carries the full certificate list and most metrics.
+- The LinkedIn export has the most complete job history.
+- These PDFs include a phone number and email address; remove them if the repository is public.

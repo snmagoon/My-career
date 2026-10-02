@@ -1,36 +1,39 @@
 # BDO Personas
 
-**Client:** BDO (professional services) · **Via:** 10Pearls Pakistan
-**Period:** 2024 – present (CONFIRM start) · **My role:** CONFIRM (architecture and revamp analysis evident from docs)
-**Domain:** Enterprise GenAI assistant · **Status:** Production; revamp in planning
+| | |
+|---|---|
+| **Company** | 10Pearls Pakistan |
+| **Client** | BDO |
+| **Period** | 2024 – present |
+| **Role** | Staff Software Consultant |
+| **Domain** | Enterprise generative AI assistant |
+| **Status** | In production; modernisation roadmap defined |
 
 ## Overview
-An internal AI chatbot for BDO staff using generative AI and RAG to help write client reports, analyse data, and find answers in the firm's archive. Users choose a "persona" tailored to a task, and can chat with uploaded files or with knowledge-base-grounded sources. Authentication is SSO through Entra ID.
+An internal AI assistant for BDO staff that combines generative AI and Retrieval-Augmented Generation (RAG) to help write client reports, analyse data, and find answers in the firm's document archive. Users pick a *persona* tailored to a task, and can chat with uploaded files or with knowledge-base-grounded sources. Access is through single sign-on with Microsoft Entra ID.
 
 ## Architecture
-- **Frontend:** React SPA with MSAL (Entra ID), Ant Design, and custom hooks.
-- **API:** ASP.NET Core on .NET 8: persona chat, file chat, knowledge base retrieval, notifications, admin, and user profile/consent.
-- **Background:** Azure Functions timers for conversation-retention cleanup and proactive deletion notifications.
-- **Data:** Cosmos DB (threads, messages, personas, profiles), Redis distributed cache, Blob Storage.
-- **AI services:** Azure API Management in front of OpenAI-style endpoints, Azure AI Document Intelligence, Azure AI Search, a BDO Search API.
-- **Other:** Microsoft Graph, SendGrid, PDF export function, Key Vault references, Application Insights.
-- **Delivery:** Bicep IaC and Azure DevOps YAML pipelines.
+| Layer | Technology |
+|---|---|
+| Frontend | React single-page app, MSAL (Entra ID), Ant Design |
+| API | ASP.NET Core on .NET 8: persona chat, file chat, knowledge retrieval, notifications, admin, user profile and consent |
+| Background jobs | Azure Functions timers for conversation-retention cleanup and deletion notices |
+| Data | Cosmos DB (threads, messages, personas, profiles), Redis distributed cache, Blob Storage |
+| AI and search | Azure API Management in front of the LLM endpoints, Azure AI Document Intelligence, Azure AI Search, BDO Search API |
+| Integrations | Microsoft Graph, SendGrid, PDF export function |
+| Platform | Key Vault references, Application Insights, Bicep IaC, Azure DevOps YAML pipelines |
 
-## Key flows
-1. Standard persona chat, with streaming responses.
-2. Chat with files: upload, chunk, summarise, retrieve.
-3. Knowledge-base-grounded chat with cited sources.
-4. Notification lifecycle and retention cleanup (impending deletion notices, scheduled purge).
+**Key runtime flows:** streaming persona chat · chat with files (upload, chunk, summarise, retrieve) · knowledge-base-grounded answers with sources · notification lifecycle and scheduled retention cleanup.
 
 ## My contributions
-- Authored the **Architecture Revamp Knowledge Pack**: system context, container diagrams, runtime flows, 10 use cases, security model, and a prioritised risk and modernisation plan.
-- Proposed target architecture: modular monolith / vertical slices with transport, use-case, domain, and infrastructure-adapter layers; strangler-pattern migration with v2 contracts.
-- Identified priorities: secret hygiene and Key Vault-only retrieval, tighter CORS, resilience policies (timeouts, retries, circuit breakers), streaming idempotency, schema versioning, Cosmos partitioning review, and more contract testing.
-- Related work to confirm: React + Azure Functions AI assistant UI/backend, APIM-vs-direct-OpenAI benchmarking, Azure AD/MSAL auth.
+- Produced the **Architecture Revamp Knowledge Pack**: system context and container diagrams, runtime flows, ten end-to-end use cases, security and identity model, and operations review.
+- Assessed the platform and set revamp priorities: secret hygiene with Key Vault-only retrieval, tighter CORS, consistent resilience policies (timeouts, retries, circuit breakers), idempotent message saves under stream interruption, versioned schemas, and Cosmos partitioning review.
+- Recommended a target architecture of a modular monolith with vertical slices (transport, use-case, domain, and infrastructure-adapter layers) and a strangler-pattern migration that keeps existing API contracts and introduces v2 contracts only for breaking changes.
+- Defined five delivery workstreams: security hardening, chat-orchestration refactor with test harnesses, data and event contract normalisation, reliability and observability, and performance and cost.
 
 ## Tech stack
-React, MSAL, Ant Design, C#/.NET 8, Azure Functions, Cosmos DB, Redis, Blob Storage, Azure AI Search, Document Intelligence, APIM, Key Vault, App Insights, Microsoft Graph, SendGrid, Bicep, Azure DevOps.
+React · MSAL · Ant Design · C# / .NET 8 · Azure Functions · Cosmos DB · Redis · Blob Storage · Azure AI Search · Document Intelligence · API Management · Key Vault · Application Insights · Microsoft Graph · SendGrid · Bicep · Azure DevOps
 
 ## Resume bullets
-- Documented and analysed the architecture of an enterprise GenAI assistant (React, .NET 8, Cosmos DB, Redis, Azure AI Search, APIM) and produced a prioritised modernisation roadmap covering security hardening, resilience, and a strangler-pattern migration.
-- Defined target architecture (modular monolith with vertical slices) and five revamp workstreams to simplify chat orchestration and standardise streaming contracts.
+- Led architecture analysis of an enterprise GenAI assistant (React, .NET 8, Cosmos DB, Redis, Azure AI Search, API Management) and delivered a prioritised modernisation roadmap covering security hardening, resilience, and a strangler-pattern migration.
+- Defined a target modular-monolith architecture with vertical slices and five delivery workstreams to simplify chat orchestration and standardise streaming contracts.

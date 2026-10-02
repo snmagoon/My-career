@@ -24,5 +24,9 @@ Staff Software Consultant at 10Pearls building enterprise AI and cloud platforms
 - Technical leadership, mentoring, and client advisory
 - Delivery management (PMP®, Agile)
 
-## Note on the two resumes
-They differ in emphasis. The AI & Cloud version (2026) leads with LLM/Azure depth. The Full Stack version is broader and carries more metrics and the full certificate list. See [resumes](resumes/README.md).
+## Which summary to use
+- **A** for AI, LLM, and cloud-architecture roles.
+- **B** for consulting, full-stack, and lead-engineer roles.
+- **C** for project, programme, and engineering-management roles.
+
+See [resumes](resumes/README.md) for the matching PDFs.

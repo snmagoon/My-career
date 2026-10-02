@@ -19,4 +19,4 @@ Every quantified claim from the resumes, for quick reuse.
 | +25% team productivity | Agile adoption | Staff Software Engineer |
 | Minutes → seconds query time | Query optimisation | Software Engineer, M3 |
 
-**Caution:** the "15+" figure appears for both applications (Consultant) and features (Engineer). Keep the wording distinct.
+**Wording note:** "15+" refers to applications at Consultant level and to features at Engineer level; keep the two distinct.
