@@ -117,3 +117,20 @@ Alternative with the highest income: everything in RIC gives Rs 90,900 gross, ab
 - SBP, [press release on DPC coverage, 10 Jun 2026](https://www.sbp.org.pk/press/2026/Pr-10-Jun-2026-2.pdf)
 - SBP policy rate pages: [sbp.org.pk](https://www.sbp.org.pk/ecodata/rates/war/)
 - Tax background (secondary): [pkrevenue.com](https://pkrevenue.com/non-filers-to-face-40-tax-on-bank-deposit-profit/)
+
+## Addendum (21 Oct 2026): RIC sellers, Meezan, mutual funds
+
+### Which banks sell RIC?
+I could not find a published list of banks. CDNS says RIC is sold at National Savings Centres, "authorized branches of scheduled banks" and the SBP; its FAQ only names the "Issuing Office". Confirm by phoning the helpline (051) 111 267 268 or info@savings.gov.pk, or by asking your bank's branch. (Naya Pakistan Certificates, a different product, use HBL, UBL, Meezan, Alfalah, MCB, Faysal, Samba and Standard Chartered as agents per a 2020 notice; this does not mean they sell RIC.)
+
+### Meezan Bank (declared for month ended 30 Sep 2026; Meezan's own sheet could not be fetched, figures via Pakera)
+- One-year certificate: 9.18% paid monthly, 9.56% at maturity.
+- Monthly Mudarabah Certificate: 7.12%.
+- Rupee savings (individuals, up to Rs 10m): 6.63%.
+- Islamic banks declare profit after the month ends, so rates are not fixed in advance.
+- Lower than RIC (12.12%) and Bank AL Habib (10.75%). Use it only if you need an Islamic bank product and Sarwa is not available to you.
+
+### Mutual funds (PakFinance page, data dated 20 Oct 2026; MUFAP could not be fetched)
+- Money-market funds: 1-year returns of about 11.0-11.2% (Alfalah Money Market II, AWT Islamic MMF, Atlas Islamic MMF, Pak Qatar Daily Dividend, AKD Cash Fund).
+- Income funds: 1-year 15.6-17.4% on the page (Pakistan Income Fund, NIT Income, Askari High Yield), but with more risk. Anomalous figures on that page (for example a fund at +73% YTD) need checking.
+- No lock-in, no deposit protection, returns not guaranteed. Payout options, sales loads, minimums and tax treatment: unverified.
