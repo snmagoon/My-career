@@ -36,7 +36,7 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 - Advised Fortune 500 and enterprise clients on digital transformation, lifting adoption and operational efficiency by 25%.
 - Ran technical workshops and training, boosting client team productivity by 20–40%.
 
-**Projects:** [Personas GenAI Assistant](projects/personas-genai-assistant.md) · [Interactive Deep Research](projects/interactive-deep-research.md) · [EVA Smart Guardrails](projects/eva-smart-guardrails.md) · [Company Research Automation (UiPath and Copilot Studio)](projects/company-research-automation.md)
+**Projects:** [Personas GenAI Assistant](projects/personas-genai-assistant.md) · [Interactive Deep Research](projects/interactive-deep-research.md) · [EVA Smart Guardrails](projects/eva-smart-guardrails.md) · [AI Output Labelling and Brand Voice Pipeline](projects/ai-output-labeller-brand-voice.md) · [Company Research Automation (UiPath and Copilot Studio)](projects/company-research-automation.md)
 
 **Tech:** UiPath, Power Automate, Copilot Studio, Power Platform custom connectors, C#, .NET 8/9, React, TypeScript, Azure OpenAI, Semantic Kernel, Azure AI Search, Cosmos DB, Redis, Service Bus, APIM, Bicep, Azure DevOps
 

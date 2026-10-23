@@ -7,6 +7,7 @@
 | Interactive Deep Research | Agentic AI, research automation | 2026 | Staff Lead Developer | [interactive-deep-research.md](interactive-deep-research.md) |
 | Company Research Pack: UiPath and Copilot Studio Experiments | Intelligent automation, feasibility study | 2026 | Staff Lead Developer | [company-research-automation.md](company-research-automation.md) |
 | EVA Smart Guardrails | AI safety and governance | 2026 | Staff Lead Developer | [eva-smart-guardrails.md](eva-smart-guardrails.md) |
+| AI Output Labelling and Brand Voice Pipeline | Generative AI, document automation | 2026 | Staff Lead Developer | [ai-output-labeller-brand-voice.md](ai-output-labeller-brand-voice.md) |
 | Revenue Management Services Platform | Revenue management | Aug 2024 – 2025 | Staff Lead Developer | [revenue-management-platform.md](revenue-management-platform.md) |
 | Health Record Management Application | Healthcare | Nov 2022 – Apr 2023 | Senior Developer | [health-record-management.md](health-record-management.md) |
 | Facility Access Management Multi-Tenant System | Facility and access management | Jan 2022 – Oct 2022 | Senior Developer | [facility-access-management.md](facility-access-management.md) |
