@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Company** | 10Pearls Pakistan |
-| **Client** | Confidential enterprise client (EVA AI platform) |
+| **Client** | Confidential enterprise client |
 | **Period** | 2026 |
 | **Role** | Staff Lead Developer |
 | **Domain** | Intelligent automation, AI-driven due diligence |
@@ -12,7 +12,7 @@
 ## Overview
 The Company Research Pack is an AI-driven due-diligence flow, originally a Python / FastAPI / CrewAI multi-agent application with 18 steps. It researches a UK company and produces a branded PDF report. I ran two experiments to replicate the whole flow on low-code and RPA platforms, **UiPath** and **Microsoft Copilot Studio**. The goal was to find out whether either platform could deliver what we needed, so that future agentic solutions could be built with less development time than custom code.
 
-**What the flow does:** takes a company name, number and website; pulls officers, filings, company record and persons with significant control from the Companies House API; extracts financial data from filings; researches directors, competitors, news, industry trends and HMRC rulings with web-search agents; analyses sentiment and Russia/China country ties; checks the UK sanctions list; generates a consolidated PDF report; and uploads the result to the EVA platform with progress events published to Azure Service Bus.
+**What the flow does:** takes a company name, number and website; pulls officers, filings, company record and persons with significant control from the Companies House API; extracts financial data from filings; researches directors, competitors, news, industry trends and HMRC rulings with web-search agents; analyses sentiment and Russia/China country ties; checks the UK sanctions list; generates a consolidated PDF report; and uploads the result to the client platform with progress events published to Azure Service Bus.
 
 ## UiPath implementation
 - Modelled the process as a **Maestro agentic process** (BPMN 2.0), with Service Tasks for each step and gateways for branching and parallel paths.
@@ -24,7 +24,7 @@ The Company Research Pack is an AI-driven due-diligence flow, originally a Pytho
 
 ## Copilot Studio implementation
 - Created a **Company Research agent** with a main orchestration **workflow** that mirrors steps 00–17, using typed input parameters and execution-scoped variables in place of CrewAI's flow state.
-- Built **custom connectors** for the Companies House API, an internal organisation-graph API, the financial-data extraction service, and the EVA platform's file-upload and completion endpoints, with secrets in **Key Vault-backed environment variables**.
+- Built **custom connectors** for the Companies House API, an internal organisation-graph API, the financial-data extraction service, and the client platform's file-upload and completion endpoints, with secrets in **Key Vault-backed environment variables**.
 - Replaced the five CrewAI crews with **generative actions** plus web-search tools, and reproduced the evaluate-and-retry pattern with **Do Until** loops (up to 3 retries).
 - Used **parallel branches** for independent Companies House calls, and error branches that publish failure events.
 - Chose deterministic matching (an Azure Function behind a connector) for sanctions screening, because LLMs are unreliable for legal name matching.

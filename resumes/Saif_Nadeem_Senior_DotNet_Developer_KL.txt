@@ -22,7 +22,7 @@ PROFESSIONAL EXPERIENCE
 
 
 Staff Software Consultant (AI and Cloud), 10Pearls Pakistan, Karachi | 06/2024 - Present
-- Staff Lead Developer on Personas, an enterprise GenAI assistant used by 1,500+ employees at a global professional services firm (React, ASP.NET Core .NET 8, Azure Functions, Cosmos DB, Redis, Azure AI Search, APIM, Bicep). Contributed from initial build through the platform revamp.
+- Staff Lead Developer on an enterprise GenAI assistant used by 1,500+ employees at a global professional services firm (React, ASP.NET Core .NET 8, Azure Functions, Cosmos DB, Redis, Azure AI Search, APIM, Bicep). Contributed from initial build through the platform revamp.
 - Authored the architecture revamp knowledge pack (system context and container diagrams, runtime flows, security and identity model). Recommended a modular monolith with vertical slices and a strangler-pattern migration that preserves existing API contracts, plus five delivery workstreams: security hardening, orchestration refactor, data contracts, reliability and observability, performance and cost.
 - Staff Lead Developer on a large multi-tenant, microservice-based Revenue Management platform (Angular, .NET, PostgreSQL, Azure): built configurable controls, role management and tenant-specific theming.
 - Built a deep-research agent platform (.NET 9, Semantic Kernel, React) with an async task queue (Azure Table Storage, Service Bus) and an automated quality-scoring retry loop; routed all AI calls through Azure API Management and closed gaps where calls bypassed it.

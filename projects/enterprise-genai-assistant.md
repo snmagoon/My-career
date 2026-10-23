@@ -1,4 +1,4 @@
-# Personas: Enterprise GenAI Assistant
+# Enterprise GenAI Assistant
 
 | | |
 |---|---|

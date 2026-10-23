@@ -1,9 +1,18 @@
-# AI Output Labelling and BDO Voice Document Pipeline
+# AI Output Labelling and Brand Voice Document Pipeline
+
+| | |
+|---|---|
+| **Company** | 10Pearls Pakistan |
+| **Client** | Confidential enterprise client |
+| **Period** | 2026 (recent) |
+| **Role** | Staff Lead Developer |
+| **Domain** | Generative AI, document automation, responsible AI |
+| **Status** | Completed |
 
 > **Resume-ready project entry**
 >
-> **AI Output Labelling and Brand Voice Pipeline | BDO Eva Labs**  
-> Designed and delivered a .NET document-processing API that accepts AI-generated text and common business documents, applies configurable AI-generated disclaimers and watermarks, and returns polished PDF, DOCX, HTML, Markdown, or text output. Integrated an optional BDO Voice rewrite workflow using centrally managed style guidance and an Azure OpenAI model accessed through API Management. Built document-aware stamping paths to preserve the original body and layout where possible, plus an opt-in extract/rewrite/regenerate path when brand-voice rewriting is requested. Deployed the Output Labeler API to Azure App Service and verified it with a PowerShell end-to-end suite covering 32 scenarios.
+> **AI Output Labelling and Brand Voice Pipeline | Confidential enterprise client**  
+> Designed and delivered a .NET document-processing API that accepts AI-generated text and common business documents, applies configurable AI-generated disclaimers and watermarks, and returns polished PDF, DOCX, HTML, Markdown, or text output. Integrated an optional Brand Voice rewrite workflow using centrally managed style guidance and an Azure OpenAI model accessed through API Management. Built document-aware stamping paths to preserve the original body and layout where possible, plus an opt-in extract/rewrite/regenerate path when brand-voice rewriting is requested. Deployed the Output Labeler API to Azure App Service and verified it with a PowerShell end-to-end suite covering 32 scenarios.
 
 **Core technologies:** C#, .NET 9, ASP.NET Core Web API, .NET 8 minimal API, Azure App Service, Azure API Management, Azure OpenAI, HTTP/JSON, OpenXML SDK, PdfSharp, PdfPig, QuestPDF, HtmlAgilityPack, Markdig, PowerShell 7, Swagger/OpenAPI.
 
@@ -11,12 +20,12 @@
 
 ## Project Overview
 
-The pipeline addresses two related needs in AI-assisted document workflows: make AI-generated output visibly identifiable and give teams a reusable way to align generated drafts with BDO's writing guidance. The Output Labeler exposes a multipart HTTP API for inline content or file uploads. Callers can keep the default stamping flow or opt into a brand-voice rewrite before the result is formatted.
+The pipeline addresses two related needs in AI-assisted document workflows: make AI-generated output visibly identifiable and give teams a reusable way to align generated drafts with the client's writing guidance. The Output Labeler exposes a multipart HTTP API for inline content or file uploads. Callers can keep the default stamping flow or opt into a brand-voice rewrite before the result is formatted.
 
 The system is split into independently deployable services:
 
-1. **Eva Output Labeler API** — .NET 9 ASP.NET Core service that validates requests, handles document parsing and stamping, optionally orchestrates a rewrite, and returns a downloadable document.
-2. **BDO Voice Guardrail API** — standalone .NET 8 minimal API that serves brand-voice guidance through a stable HTTP contract. Its storage abstraction supports filesystem and Azure Blob-backed content stores, with caching in the service layer.
+1. **Output Labeler API** — .NET 9 ASP.NET Core service that validates requests, handles document parsing and stamping, optionally orchestrates a rewrite, and returns a downloadable document.
+2. **Brand Voice Guardrail API** — standalone .NET 8 minimal API that serves brand-voice guidance through a stable HTTP contract. Its storage abstraction supports filesystem and Azure Blob-backed content stores, with caching in the service layer.
 3. **AI rewrite provider** — an Azure OpenAI chat-completions deployment reached through Azure API Management. The model and gateway configuration are externalized in application options rather than embedded in the rewrite logic.
 
 ```text
@@ -24,7 +33,7 @@ Caller
   |
   | multipart/form-data: content or file, output options, ApplyBrandVoice
   v
-Eva Output Labeler API (.NET 9)
+Output Labeler API (.NET 9)
   |-- default path: stamp document and preserve source body/layout
   |
   |-- optional rewrite path:
@@ -52,10 +61,10 @@ Downloadable PDF, DOCX, HTML, Markdown, or TXT
 - Kept content rewriting opt-in, so callers that only need an AI disclaimer or watermark can avoid an LLM call and preserve document layout.
 - Enforced same-format output for uploaded files to avoid silently reflowing a document during a stamping-only request.
 
-### BDO Voice and AI rewrite integration
+### Brand Voice and AI rewrite integration
 
 - Added an `ApplyBrandVoice` request option to make brand-voice rewriting an explicit, caller-controlled step.
-- Retrieved the current combined guidance from the independent BDO Voice Guardrail API rather than copying brand rules into the Output Labeler.
+- Retrieved the current combined guidance from the independent Brand Voice Guardrail API rather than copying brand rules into the Output Labeler.
 - Constructed a chat-completions request with a rewrite instruction and the retrieved guidance in the system message, and the source content in the user message.
 - Configured gateway endpoint, deployment name, API version, route, timeout, and sampling temperature using options and named `HttpClient` instances.
 - Used a fail-open policy for this optional feature: if guidance retrieval or the AI request fails or returns empty content, the original source content continues through the formatting pipeline. Failures are logged for diagnosis.
@@ -91,7 +100,7 @@ Downloadable PDF, DOCX, HTML, Markdown, or TXT
 ### Concise
 
 - Built and deployed a .NET document-labelling API on Azure App Service, supporting five document inputs and five output formats, configurable AI disclaimers and watermarks, and document-aware stamping that preserves source layout where possible.
-- Integrated an optional BDO Voice rewrite workflow using centrally served guidance and Azure OpenAI through API Management; implemented fail-open behavior, format-specific parsing/regeneration, and a 32-scenario PowerShell end-to-end suite.
+- Integrated an optional Brand Voice rewrite workflow using centrally served guidance and Azure OpenAI through API Management; implemented fail-open behavior, format-specific parsing/regeneration, and a 32-scenario PowerShell end-to-end suite.
 
 ### More technical
 

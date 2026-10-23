@@ -15,10 +15,11 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 - Designed and deployed RAG pipelines using Azure OpenAI and Azure AI Search for semantic knowledge retrieval.
 - Led projects using agentic AI for deep search and workflow automation; developed custom AI solutions for internal corporate use.
 - Built the UI and backend of an AI assistant with React and Azure Functions, including unit tests.
+- Delivered an AI output labelling and brand voice pipeline: a .NET API that applies AI-generated disclaimers and watermarks to PDF, DOCX, HTML, Markdown and text, with an optional Azure OpenAI brand-voice rewrite through API Management, deployed to Azure App Service and verified by a 32-scenario end-to-end suite.
 
 **Automation and low-code (past year)**
 - Ran feasibility experiments to see whether **UiPath** or **Copilot Studio** could cut development time for agentic solutions, by replicating an existing 18-step AI due-diligence pipeline on **UiPath** (Maestro BPMN process, Studio Web RPA workflows, autonomous agents with evaluation sets) and again in **Copilot Studio** (agents, workflows, generative actions, retry loops).
-- Built Power Platform **custom connectors** (including an organisational connector for the EVA guardrails API) and Power Automate flows, with secrets in Key Vault-backed environment variables.
+- Built Power Platform **custom connectors** (including an organisational connector for the guardrails API) and Power Automate flows, with secrets in Key Vault-backed environment variables.
 - Documented platform gaps and workarounds to support build-versus-buy decisions.
 
 **Cloud and architecture**
@@ -36,7 +37,7 @@ Contributes to architecture, development, and delivery of enterprise-scale AI an
 - Advised Fortune 500 and enterprise clients on digital transformation, lifting adoption and operational efficiency by 25%.
 - Ran technical workshops and training, boosting client team productivity by 20–40%.
 
-**Projects:** [Personas GenAI Assistant](projects/personas-genai-assistant.md) · [Interactive Deep Research](projects/interactive-deep-research.md) · [EVA Smart Guardrails](projects/eva-smart-guardrails.md) · [AI Output Labelling and Brand Voice Pipeline](projects/ai-output-labeller-brand-voice.md) · [Company Research Automation (UiPath and Copilot Studio)](projects/company-research-automation.md)
+**Projects:** [Enterprise GenAI Assistant](projects/enterprise-genai-assistant.md) · [Interactive Deep Research](projects/interactive-deep-research.md) · [Smart Guardrails](projects/smart-guardrails.md) · [AI Output Labelling and Brand Voice Pipeline](projects/ai-output-labeller-brand-voice.md) · [Company Research Automation (UiPath and Copilot Studio)](projects/company-research-automation.md)
 
 **Tech:** UiPath, Power Automate, Copilot Studio, Power Platform custom connectors, C#, .NET 8/9, React, TypeScript, Azure OpenAI, Semantic Kernel, Azure AI Search, Cosmos DB, Redis, Service Bus, APIM, Bicep, Azure DevOps
 

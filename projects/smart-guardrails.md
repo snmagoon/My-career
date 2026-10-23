@@ -1,9 +1,9 @@
-# EVA Smart Guardrails
+# Smart Guardrails
 
 | | |
 |---|---|
 | **Company** | 10Pearls Pakistan |
-| **Client** | Confidential enterprise client (EVA AI platform) |
+| **Client** | Confidential enterprise client |
 | **Period** | 2026 |
 | **Role** | Staff Lead Developer |
 | **Domain** | AI safety, governance, Power Platform integration |
