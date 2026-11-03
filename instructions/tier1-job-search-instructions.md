@@ -71,6 +71,28 @@ HOW TO SEARCH
 - Use Claude in Chrome only to read job pages and to fill employer forms with Saif watching. Never on LinkedIn for applications or messages. LinkedIn is read-only, for finding people for referrals.
 - Ignore postings with no named employer, postings that ask for payment, and postings whose location does not match the permit route.
 
+GOOGLE SEARCH PLAYBOOK (run with Google web search; set the time filter to the past month; rotate the title and the city)
+A. Employer ATS pages (preferred, direct applications):
+(site:boards.greenhouse.io OR site:job-boards.greenhouse.io OR site:jobs.lever.co OR site:jobs.ashbyhq.com OR site:apply.workable.com OR site:jobs.smartrecruiters.com) "Solution Architect" Azure (Dublin OR Amsterdam OR Berlin OR London OR Munich)
+(site:jobs.lever.co OR site:jobs.ashbyhq.com OR site:apply.workable.com OR site:jobs.personio.com OR site:join.com OR site:recruitee.com) ".NET" Senior Azure "visa sponsorship"
+(site:myworkdayjobs.com OR site:jobs.smartrecruiters.com) "Azure" ("AI" OR "GenAI" OR "Copilot") architect (Ireland OR Netherlands OR Germany OR "United Kingdom")
+B. Visa and relocation wording (ads rarely say "visa sponsorship"; also try "relocation", "Blue Card", "we sponsor", "international candidates welcome"):
+"visa sponsorship" ".NET" Azure senior Amsterdam
+"relocation" "Blue Card" "C#" OR ".NET" Azure Germany "English" -"German required" -"fließend Deutsch"
+"Critical Skills" OR "visa sponsorship" OR "relocation support" ".NET" OR "Azure" Dublin OR Cork
+"Skilled Worker visa" OR "sponsorship available" ".NET" OR "Azure" architect London OR Manchester OR Edinburgh
+Caution: excluding words with a minus sign (for example -Python) also drops roles where the word is only "nice to have". Prefer to read the JD.
+C. Titles by country (swap in each title from the TITLES list):
+intitle:"Solution Architect" Azure AI jobs Ireland
+intitle:".NET" (Senior OR Lead OR Architect) jobs Netherlands relocation
+intitle:"AI Engineer" "Azure OpenAI" jobs Germany English
+intitle:"Technical Program Manager" (AI OR cloud) jobs "United Kingdom" sponsorship
+D. Sponsor registers (search for the page, then use its search or download; verify the page is the official one):
+GOV.UK "register of licensed sponsors" workers
+IND "public register recognised sponsors"
+E. Direct site searches: Indeed (short queries), Google Jobs box, Relocate.me, Arbeitnow, Make-it-in-Germany, Jobs.ie, IrishJobs, Find a Job (GOV.UK). StepStone and Xing are read-only because many ads are in German. LinkedIn is read-only, for finding people for referrals.
+Process: run one query at a time, list the employers found, check the sponsor register or the careers page, then open the full JD. Report what you ran and what you could not verify.
+
 FOR EACH CANDIDATE ROLE
 1. Read the full JD (use job details, not the search snippet).
 2. Check location, seniority, years, language, banned stack (using the skill filter logic), salary versus the EUR 72K floor and the permit floor, and sponsor evidence.
